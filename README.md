@@ -166,6 +166,10 @@ how to contribute to the project.
 
 This project is licensed under the terms of the [MIT license][license-link].
 
+## Authors
+
+* **Shubham Garg**  - [shubhamgarg9](https://github.com/shubhamgarg9) 
+
 
 [release-shield]: https://img.shields.io/github/release/faheel/BigInt/all.svg?style=for-the-badge
 [release-link]: https://github.com/faheel/BigInt/releases
